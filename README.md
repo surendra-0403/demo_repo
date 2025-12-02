@@ -5,6 +5,9 @@
 that a person can work on his own or on some other projects too 
 ## there are different commands to be used to work with git 
 1.clone:to bring any reop from online in to your local space so you can work on it 
+
 HOW TO USE 
+
 open new terminal this is the command 
+
 "---git clone link of the repo---"
