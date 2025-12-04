@@ -11,3 +11,7 @@ HOW TO USE
 open new terminal this is the command 
 
 "---git clone link of the repo---"
+
+2.git status 
+
+gives us the status of the files that are in the current repo 
